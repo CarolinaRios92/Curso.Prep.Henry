@@ -1,0 +1,14 @@
+- Las Variables son como cajitas donde podemos almacenar información dentro de una computadora para que la podamos utilizar en otro momento.
+
+- String es un tipo de variable, estos son pedacitos de texto y siempre se pone entre comillas.
+
+- Las Funciones son objetos que nos sirven para poner varias lineas de codigo, es decir las indicaciones que uno le hace a la computadora, que vamos a necesitar usar varias veces en distintas partes de nuestro codigo y de esta manera podemos acceder a ella de una manera mas sencilla.
+Estas funciones estan conformadas primero por la palabra function seguida del nombre que le ponemos a la función, luego ponemos entre parentesis lo que llamamos argumentos, que son los valores que necesita la función para poder hacer su trabajo y por ultimo tenemos entre {} las lineas de codigo que tiene que realizar.
+Y utilizamos la instrucción Return para salir de esa función en particular y que nos de un resultado especifico.
+
+- Las declaraciones if else permiten controlar el flujo de ejecución del codigo, es decir esta se basa en preguntar si se da una determinada condición se debe ejecutar determinado codigo si no es el caso se puede evaluar otra situación o si no cumple ninguna tiene un codigo por defecto.
+
+- Las variables booleanas solo pueden tomar dos valores true o false, estas se usan para guardar información que solo puede tener dos estados como si/no, cumple/no cumple, etc. 
+Un ejemplo de código que nos devuelve un valor booleano es 
+5 > 2 // true
+2 === 1 false
