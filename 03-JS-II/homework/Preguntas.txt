@@ -1,0 +1,21 @@
+- El bucle FOR se utiliza para repetir una determinada cantidad de veces una o mas instrucciones. Pero utilizamos este bucle cuando ya de antemanos sabemos la cantidad de veces que vamos a necesitar utilizarlo. Aparte la sintaxis de este bucle nos ayuda a tener menos errores cuando lo utilizamos ya que cuando lo utilizamos tenemos que poner entre parentesis la variable que vamos a utilizar para contar, luego la condición que se debe cumplir para que siga funcionando el bucle y luego incrementamos el valor de la variable con la que contamos las vueltas.
+- Los operadores logicos nos sirven para comparar valores booleanos (que tienen solo dos valores true o false) y nos dan como resultado un valor booleano. 
+De estos operadores lógicos podemos nombrar:
+	- && (AND) este operador compara dos expresiones y solo en el caso de que las dos expresiones sea true nos va a devolver true en el resto de los casos nos dara como resultado false.
+		A	B	A && B 
+	      true     true	 true
+	      true     false	 false
+	      false    true	 false
+	      false    false	 false
+
+	- || (OR) este operador compara dos expresiones y solo es necesario que una o las dos expresiones sean true para que de como resultado true y solo en el caso de que las dos expresiones sean falsas da como resultado false.
+		A	B	A || B
+	      true     true      true
+	      true     false	 true
+	      false    true	 true
+	      false    false	 false
+
+	- ! (NOT) este operador da como resultado el valor opuesto del que se le pasa.
+		A	!A
+	      true     false
+	      false    true
