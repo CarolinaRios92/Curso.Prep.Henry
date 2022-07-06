@@ -1,0 +1,3 @@
+- Un Array o Arreglo es como un contenedor donde almacenamos una colección de datos. En un mismo array podemos tener: números, string, valores booleanos, otros array, funciones.
+Se declara como:
+		let array = [1, true, 'hola']
