@@ -1,0 +1,15 @@
+- Los objetos son contenedores de datos, almacenan mucha información que esta relacionada. Es una colección de propiedades,
+estas tienen la caracteristica que estan conformadas por los pares key: value (clave y valor).
+Estos objetos pueden contener muchas claves y valores. No se puede tener dos claves iguales pero si se puede tener varias claves
+con el mismo valor.
+
+- Los métodos son funciones que estan guardadas dentro de un objeto.
+
+- El bucle for ... in nos sirve para iterar sobre cada par clave-valor en un objeto. Asi que en un bucle como este determinamos
+la clave que se va a tomar y luego se pone en que objeto esta. 
+
+- Para poder acceder a los valores de las propiedades de un objeto se puede realizar de dos maneras:
+	- notación de puntos: objeto.clave
+	- notación de corchetes: objeto['clave']
+Las dos formas funcionan de la misma manera pero la diferencia es que si en el valor de una clave tenemos un caracter especial o
+algo que nos sale error si lo ponemos dentro de los corchetes nos va a funcionar correctamente.
