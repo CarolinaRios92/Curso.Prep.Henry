@@ -1,0 +1,3 @@
+- Los prototype son una manera mediante la cual los objetos en JavaScript herendan los metodos y propiedades de otro objeto. 
+
+-Constructors (de clases) es el código que construye y configura un objeto cuando se crea con new. Todas las clases tienen un constructos por mas que no lo escribimos nosotros dentro de class, se crea por defecto un constructor vacio.
