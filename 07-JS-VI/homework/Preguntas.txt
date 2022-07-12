@@ -1,0 +1,7 @@
+- Las funciones Callback nos permiten usar una función como argumento para otra función. En el caso de que lo utilicemos 
+debemos usar cb como argumento para la variable que se usara de callback.
+	function recuperarContraseña(usuario,cb){
+		return cb(usuario)
+	}
+
+	recuperarContraseña(carito.rios,conEmail);	
